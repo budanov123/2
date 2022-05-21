@@ -1,0 +1,15 @@
+h2 {
+    background-color: #000000;
+  }
+h2 {
+    color: rgb(255, 255, 255);
+}
+p {
+    padding: 20px 0 20px 10px;
+  
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+p {
+    color:#000000;
+}
